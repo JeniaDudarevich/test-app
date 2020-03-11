@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
     $ git clone https://github.com/JeniaDudarevich/test-app.git
     $ cd frontend
-    $ npm install 
+    $ npm install
+    
+## Settings
+ - create new file .env inside ./frontend directory
+ - copy content from .env.example and paste to .env
 
 ## Available Scripts
 
